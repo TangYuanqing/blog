@@ -1,6 +1,6 @@
 # Site settings
 title: TangYuanqing's Blog
-description: "记录各类IT相关及代码日常。。"
+description: "记录各类IT相关及代码日常。�?
 url: "https://TangYuanqing.github.io"
 
 
@@ -106,7 +106,7 @@ prose:
       - name: "horizontal"
         field:
           element: "hidden"
-          value: </section></section><section markdown="1" data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section markdown="1">
+          value: </section></section><section markdown="1" data-background="http://Tangyuanqing.github.io/img/slidebackground.png"><section markdown="1">
       - name: "vertical"
         field:
           element: "hidden"
