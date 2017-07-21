@@ -1,9 +1,9 @@
 ---
 layout:     notebook
-title:      New Notebook
+title:      Summer 2017 Code Training 1
 author:     Ahmet Cecen
-tags: 		jupyter workflows template
-subtitle:   Showcasing Jupyter Notebook Translator Layout
+tags: 		
+subtitle:   Summer 2017 Code Training 1 Ã‚Ω‚
 category:  project1
 
 notebookfilename: intro
