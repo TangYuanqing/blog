@@ -4,7 +4,7 @@ title:      Summer 2017 Code Training 2
 author:     TangYuanqing
 tags: 		ACM
 subtitle:   Day 2 题解链接
-category:  project1
+category:  ACM Log
 
 notebookfilename:
 visualworkflow: false
