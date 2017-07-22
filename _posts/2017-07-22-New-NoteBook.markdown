@@ -1,18 +1,15 @@
 ---
 layout:     notebook
-title:      ABCD
+title:      Summer 2017 Code Training 1
 author:     TangYuanqing
 tags: 		ACM
-subtitle:   ACMTest
+subtitle:   Day 1 题解链接
 category:  project1
 
 notebookfilename:
 visualworkflow: false
 ---
 
-Summer 2017 Code Training 1 题解链接
-
-请认真补题，谢谢！
 
 A - Cow Patterns
 来源：POJ – 3167
