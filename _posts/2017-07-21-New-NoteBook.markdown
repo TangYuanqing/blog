@@ -14,19 +14,19 @@ visualworkflow: false
 # A - Kind of a Blur
 ## 来源：HDU - 3359
 ### 知识点：高斯消元法等
-[url](http://blog.csdn.net/qwb492859377/article/details/47013321)
+[url](http://blog.csdn.net/qwb492859377/article/details/47013321) abc
 
 
 # B - A * B Problem Plus
 ## 来源：HDU – 1402
 ### 知识点：FFT、大整数乘法等
-[foo](http://blog.csdn.net/sdj222555/article/details/9786527)
+[foo](http://blog.csdn.net/sdj222555/article/details/9786527) abc
 
 
 # C - 3-idiots
 ## 来源：HDU – 4609
 ### 知识点：FFT计数等
-[url]:(http://blog.csdn.net/qq_33184171/article/details/54427994)
+[url]:(http://blog.csdn.net/qq_33184171/article/details/54427994) abc
 
 
 # D - Painter's Problem
