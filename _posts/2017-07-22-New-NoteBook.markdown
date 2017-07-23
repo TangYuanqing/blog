@@ -59,8 +59,9 @@ visualworkflow: false
 #### 6、次小生成树
 [http://yzmduncan.iteye.com/blog/1018358](http://yzmduncan.iteye.com/blog/1018358)
 
-==========
-# Summer 2017 Code Training 3 解题参考链接
+=================================================================
+# Summer 2017 Code Training 3
+# 解题参考链接
 
 
 ## A - Aragorn's Story

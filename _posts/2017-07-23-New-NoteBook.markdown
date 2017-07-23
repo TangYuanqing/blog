@@ -11,7 +11,8 @@ visualworkflow: false
 ---
 
 
-# 明天比赛预告：Summer 2017 Code Training 4
+# 明天比赛预告：
+# Summer 2017 Code Training 4
 ## 题数：14
 ### 时间：2017年7月24日 11:30-16:30
 #### 模板：上海大学ACM模板-第74-96页
