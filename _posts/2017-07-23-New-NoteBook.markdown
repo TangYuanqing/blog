@@ -3,7 +3,7 @@ layout:     notebook
 title:      Summer 2017 Code Training 4
 author:     TangYuanqing
 tags: 		ACM
-subtitle:   Day 4 预告+解题模板
+subtitle:   Day 4 预告+题解链接
 category:  ACM Log
 
 notebookfilename:
