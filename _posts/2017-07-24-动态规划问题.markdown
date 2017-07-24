@@ -10,7 +10,7 @@ notebookfilename:
 visualworkflow: false
 ---
 # 01背包问题
-![Question](https://github.com/TangYuanqing/TangYuanqing.github.io/tree/master/img/01bag.png)
+![Question](TangYuanqing.github.io/img/01bag.png)
 {% highlight cpp %}
 #include <iostream>
 
@@ -46,6 +46,14 @@ int main()
   return 0;
 }
 {% endhighlight %}
+
+
+# 饭卡
+
+###### Time Limit: 5000/1000 MS (Java/Others)
+###### Memory Limit: 32768/32768 K (Java/Others)
+###### Total Submission(s): 30742    Accepted
+###### Submission(s): 10531
 
 #### Problem Description
 电子科大本部食堂的饭卡有一种很诡异的设计，即在购买之前判断余额。如果购买一个商品之前，卡上的剩余金额大于或等于5元，就一定可以购买成功（即使购买后卡上余额为负），否则无法购买（即使金额足够）。所以大家都希望尽量使卡上的余额最少。
