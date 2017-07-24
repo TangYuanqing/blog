@@ -41,6 +41,7 @@ int dp[10000];
 int main()
 {
   //freopen("01bag.in","r",stdin);  
+
   int n,V;
   int w[1000],v[1000];
   cin >> n >> V;
