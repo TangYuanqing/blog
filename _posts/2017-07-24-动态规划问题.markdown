@@ -40,7 +40,7 @@ using namespace std;
 int dp[10000];
 int main()
 {
-  freopen("01bag.in","r",stdin);
+  //freopen("01bag.in","r",stdin);  
   int n,V;
   int w[1000],v[1000];
   cin >> n >> V;
@@ -51,12 +51,9 @@ int main()
     for(int j=V;j>=1;j--)
       {
         if(j>=w[i])dp[j]=max(dp[j],dp[j-w[i]]+v[i]);
-        // for(int i=1;i<=V;i++)
-
-        //   cout << setw(3) << dp[i] << " " ;
-
-        // cout << endl;
-
+        // for(int i=1;i<=V;i++)  
+        //   cout << setw(3) << dp[i] << " " ;  
+        // cout << endl;  
       }
     cout << dp[V] << endl;
   return 0;
