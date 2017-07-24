@@ -3,7 +3,7 @@ layout:     notebook
 title:      Summer 2017 Code Training 4
 author:     TangYuanqing
 tags: 		ACM
-subtitle:   Day 4 预告
+subtitle:   Day 4 预告+解题模板
 category:  ACM Log
 
 notebookfilename:
@@ -54,3 +54,87 @@ visualworkflow: false
 
 ### 9、二分图最大权匹配：Kuhn-Munkres算法
 [http://www.cnblogs.com/kuangbin/archive/2012/08/19/2646535.html](http://www.cnblogs.com/kuangbin/archive/2012/08/19/2646535.html)
+====================================================
+# Summer 2017 Code Training 4
+#### 请认真补题，谢谢！
+
+## A - Popular Cows
+### 来源：POJ – 2186
+#### 知识点：Tarjan算法等
+[http://www.dontcry-tat.com/2017/04/26/poj-2186-popular-cows/](http://blog.csdn.net/qq7366020/article/details/12943345)
+
+
+## B - 迷宫城堡
+### 来源：HDU – 1269
+#### 知识点：Kosaraju算法等
+[http://blog.csdn.net/qq7366020/article/details/12943345](http://blog.csdn.net/qq7366020/article/details/12943345)
+
+
+## C - Critical Links
+### 来源：UVA – 796
+#### 知识点：无向图求桥等
+[http://www.cnblogs.com/chenchengxun/p/4718717.html](http://www.cnblogs.com/chenchengxun/p/4718717.html)
+
+
+## D - Electricity
+### 来源：POJ – 2117
+#### 知识点：无向图求割点
+[http://blog.csdn.net/liwen_7/article/details/7919220](http://blog.csdn.net/liwen_7/article/details/7919220)
+
+
+## E - Redundant Paths
+### 来源：POJ – 3177
+#### 知识点：无向图的双连通问题等
+[http://mojijs.com/2014/11/165169/index.html](http://mojijs.com/2014/11/165169/index.html)
+
+
+## F - Knights of the Round Table
+### 来源：POJ – 2942
+#### 知识点：点的双连通分量等
+[http://www.cnblogs.com/wangfang20/p/3201502.html](http://blog.csdn.net/shuangde800/article/details/8039359)
+
+
+## G - Command Network
+### 来源：POJ – 3164
+#### 知识点：最小树形图等
+[http://blog.csdn.net/shuangde800/article/details/8039359](http://blog.csdn.net/shuangde800/article/details/8039359)
+
+
+## H - The Perfect Stall
+### 来源：POJ – 1274
+#### 知识点：二分图最大匹配：匈牙利算法
+[http://blog.csdn.net/u013487051/article/details/37656979](http://blog.csdn.net/u013487051/article/details/37656979)
+
+
+## I - Asteroids
+### 来源：POJ – 3041
+#### 知识点：二分图最大匹配：匈牙利算法
+[http://blog.csdn.net/yeruby/article/details/39315713](http://blog.csdn.net/yeruby/article/details/39315713)
+
+
+## J - COURSES
+### 来源：POJ – 1469
+#### 知识点：二分图最大匹配：Hopcroft-Karp算法
+[http://blog.csdn.net/u011466175/article/details/23709885](http://blog.csdn.net/u011466175/article/details/23709885)
+
+
+## K - Lightning
+### 来源：HDU – 4305
+#### 知识点：生成树计数：Matrix-Tree定理
+[http://blog.csdn.net/julyana_lin/article/details/8067024](http://blog.csdn.net/julyana_lin/article/details/8067024)
+
+
+## L - Highways
+### 来源：SPOJ – HIGH
+#### 知识点：生成树计数
+[http://blog.csdn.net/gatevin/article/details/48051879](http://blog.csdn.net/gatevin/article/details/48051879)
+
+
+## M - Alice's Chance
+### 来源：POJ – 1698
+#### 知识点：二分图多重匹配
+[http://blog.csdn.net/l123012013048/article/details/47295503](http://blog.csdn.net/l123012013048/article/details/47295503)
+## N - 奔小康赚大钱
+### 来源：HDU – 2255
+#### 知识点：二分图最大权匹配、KM算法等
+[http://blog.csdn.net/sr_19930829/article/details/40650359](http://blog.csdn.net/sr_19930829/article/details/40650359)
