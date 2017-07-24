@@ -11,18 +11,18 @@ visualworkflow: false
 ---
 # 01背包问题
 ![Question](https://raw.githubusercontent.com/TangYuanqing/TangYuanqing.github.io/master/img/01bag.png)
-#### Sample Input
+### Sample Input
 ---
-5 10
-2 6
-2 3
-6 5
-5 4
-4 6
+5 10  
+2 6  
+2 3  
+6 5  
+5 4  
+4 6  
 
 ### Sample Output
 ---
-15
+15  
 
 {% highlight cpp %}
 #include <iostream>
@@ -90,18 +90,18 @@ n=0表示数据结束。
 
 
 #### Sample Input
-1
-50
-5
-10
-1 2 3 2 1 1 2 3 2 1
-50
-0
+1  
+50  
+5  
+10  
+1 2 3 2 1 1 2 3 2 1  
+50  
+0  
 
 
 #### Sample Output
--45
-32
+-45  
+32  
 
 ---
 {% highlight cpp %}
