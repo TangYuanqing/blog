@@ -10,7 +10,7 @@ notebookfilename:
 visualworkflow: false
 ---
 # 01背包问题
-![Question](TangYuanqing.github.io/img/01bag.png)
+![Question](https://raw.githubusercontent.com/TangYuanqing/TangYuanqing.github.io/master/img/01bag.png)
 {% highlight cpp %}
 #include <iostream>
 
