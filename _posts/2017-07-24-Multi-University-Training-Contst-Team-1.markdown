@@ -1,4 +1,4 @@
-------
+---
 layout:     notebook
 title:      2017 Multi-University Training Contst - Team 1
 author:     TangYuanqing
