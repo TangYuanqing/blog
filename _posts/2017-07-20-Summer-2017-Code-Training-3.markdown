@@ -12,7 +12,7 @@ visualworkflow: false
 
 
 # A - Cow Patterns
-## 来源：POJ – 3167
+## 来源：[POJ – 3167](http://poj.org/problem?id=3167)
 ### 知识点：扩展KMP等
 [http://www.cnblogs.com/zjh10/articles/2105716.html](http://www.cnblogs.com/zjh10/articles/2105716.html)
 [http://blog.csdn.net/tmeteorj/article/details/8693366](http://blog.csdn.net/tmeteorj/article/details/8693366)
@@ -20,13 +20,13 @@ visualworkflow: false
 
 
 # B - Best Sequence
-## 来源：POJ – 1699
+## 来源：[POJ – 1699](http://poj.org/problem?id=1699)
 ### 知识点：扩展KMP+DFS等
 [http://blog.csdn.net/zzzz40/article/details/39186109](http://blog.csdn.net/zzzz40/article/details/39186109)
 
 
 # C – Palindrome
-## 来源：POJ – 3974
+## 来源：[POJ – 3974](http://poj.org/problem?id=3974)
 ### 知识点：Manacher算法等
 [http://blog.csdn.net/u010885899/article/details/45366633](http://blog.csdn.net/u010885899/article/details/45366633)
 [http://blog.csdn.net/geniusluzh/article/details/8639759](http://blog.csdn.net/geniusluzh/article/details/8639759)
@@ -44,7 +44,7 @@ visualworkflow: false
 [http://blog.csdn.net/xinag578/article/details/50164599](http://blog.csdn.net/xinag578/article/details/50164599)
 
 # F - Power Strings
-## 来源：POJ – 2406
+## 来源：[POJ – 2406](http://poj.org/problem?id=2406)
 ### 知识点：后缀数组DC3算法等
 [http://blog.csdn.net/libin56842/article/details/46310425](http://blog.csdn.net/libin56842/article/details/46310425)
 
@@ -57,39 +57,39 @@ visualworkflow: false
 
 
 # H - Prime Distance
-## 来源：POJ – 2689
+## 来源：[POJ – 2689](http://poj.org/problem?id=2689)
 ### 知识点：大区间素数筛选等
 [http://www.cnblogs.com/kuangbin/archive/2013/05/20/3089840.html](http://www.cnblogs.com/kuangbin/archive/2013/05/20/3089840.html)
 
 
 # I - The Factor
-## 来源：HDU – 5428
+## 来源：[HDU – 5428](http://acm.hdu.edu.cn/showproblem.php?pid=5428)
 ### 知识点：素数筛选合数分解等
 [http://www.bubuko.com/infodetail-1079772.html](http://www.bubuko.com/infodetail-1079772.html)
 [http://www.cnblogs.com/Apro/p/4784808.html](http://www.cnblogs.com/Apro/p/4784808.html)
 
 
 # J - A/B
-## 来源：HDU - 1576
+## 来源：[HDU - 1576](http://acm.hdu.edu.cn/showproblem.php?pid=1576)
 ### 知识点：扩展欧几里得算法等
 [http://blog.csdn.net/ljd4305/article/details/26057385](http://blog.csdn.net/ljd4305/article/details/26057385)
 [http://blog.csdn.net/lyc1635566ty/article/details/50611246](http://blog.csdn.net/lyc1635566ty/article/details/50611246)
 
 
 # K - X问题
-## 来源：HDU - 1573
+## 来源：[HDU - 1573](http://acm.hdu.edu.cn/showproblem.php?pid=1573)
 ### 知识点：解一元线性同余方程组、中国剩余定理等
 [http://www.cnblogs.com/zhangmingcheng/p/4238407.html](http://www.cnblogs.com/zhangmingcheng/p/4238407.html)
 [http://blog.csdn.net/a601025382s/article/details/10296577](http://blog.csdn.net/a601025382s/article/details/10296577)
 
 
 # L - Prime Test
-## 来源：POJ – 1811
+## 来源：[POJ – 1811](http://poj.org/problem?id=1811)
 ### 知识点：大素数判断和素因子分解等
 [http://www.cnblogs.com/kuangbin/archive/2012/08/19/2646404.html](http://www.cnblogs.com/kuangbin/archive/2012/08/19/2646404.html)
 
 
 # M - Farey Sequence
-## 来源：POJ – 2478
+## 来源：[POJ – 2478](http://poj.org/problem?id=2478)
 ### 知识点：欧拉函数等
 [http://blog.csdn.net/aaaaacmer/article/details/47272037](http://blog.csdn.net/aaaaacmer/article/details/47272037)

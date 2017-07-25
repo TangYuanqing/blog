@@ -65,7 +65,7 @@ visualworkflow: false
 
 
 ## A - Aragorn's Story
-### 来源： HDU – 3966
+### 来源： [HDU – 3966](http://acm.hdu.edu.cn/showproblem.php?pid=3966)
 #### 知识点：树链剖分+树状数组等
 [http://www.cnblogs.com/kuangbin/archive/2013/08/14/3258736.html](http://www.cnblogs.com/kuangbin/archive/2013/08/14/3258736.html)
 
@@ -77,13 +77,13 @@ visualworkflow: false
 
 
 ## C - SuperMemo
-### 来源：POJ – 3580
+### 来源：[POJ – 3580](http://poj.org/problem?id=3580)
 #### 知识点：Splay Tree（伸展树）等
 [http://blog.csdn.net/jasonzhu8/article/details/5747811](http://blog.csdn.net/jasonzhu8/article/details/5747811)
 
 
 ## D - Query on The Trees
-### 来源：HDU – 4010
+### 来源：[HDU – 4010](http://acm.hdu.edu.cn/showproblem.php?pid=4010)
 #### 知识点：动态树等
 [http://www.cnblogs.com/kuangbin/archive/2013/09/04/3300251.html](http://www.cnblogs.com/kuangbin/archive/2013/09/04/3300251.html)
 
@@ -95,7 +95,7 @@ visualworkflow: false
 
 
 ## F - K-th Number
-### 来源：POJ – 2104
+### 来源：[POJ – 2104](http://poj.org/problem?id=2104)
 #### 知识点：主席树-静态区间第k大 等
 [http://www.cnblogs.com/kuangbin/archive/2013/09/05/3302731.html](http://www.cnblogs.com/kuangbin/archive/2013/09/05/3302731.html)
 
@@ -115,31 +115,31 @@ visualworkflow: false
 
 
 ## I - MPI Maelstrom
-### 来源：POJ – 1502
+### 来源：[POJ – 1502](http://poj.org/problem?id=1502)
 #### 知识点：Dijkstra算法等
 [http://blog.csdn.net/u013446688/article/details/42708487](http://blog.csdn.net/u013446688/article/details/42708487)
 
 
 ## J - Invitation Cards
-### 来源：POJ – 1511
+### 来源：[POJ – 1511](http://poj.org/problem?id=1511)
 #### 知识点：优先队列优化的Dijkstra算法等
 [http://www.cnblogs.com/kuangbin/p/3140958.html](http://www.cnblogs.com/kuangbin/p/3140958.html)
 
 
 ## K - Currency Exchange
-### 来源：POJ – 1860
+### 来源：[POJ – 1860](http://poj.org/problem?id=1860)
 #### 知识点：Bellman-Ford算法等
 [http://www.cnblogs.com/kuangbin/archive/2012/08/17/2644807.html](http://www.cnblogs.com/kuangbin/archive/2012/08/17/2644807.html)
 
 
 ## L - Wormholes
-### 来源：POJ - 3259
+### 来源：[POJ - 3259](http://poj.org/problem?id=3259)
 #### 知识点：SPFA等
 [http://blog.csdn.net/murmured/article/details/18669909](http://blog.csdn.net/murmured/article/details/18669909)
 
 
 ## M - Highways
-### 来源：POJ – 2485
+### 来源：[POJ – 2485](http://poj.org/problem?id=2485)
 #### 知识点：最小生成树等
 [http://blog.csdn.net/mikasa3/article/details/51559191](http://blog.csdn.net/mikasa3/article/details/51559191)
 [http://blog.csdn.net/fanesemyk/article/details/51137466?locationNum=1&fps=1](http://blog.csdn.net/fanesemyk/article/details/51137466?locationNum=1&fps=1)
@@ -152,6 +152,6 @@ visualworkflow: false
 
 
 ## O - Qin Shi Huang's National Road System
-### 来源：HDU - 4081
+### 来源：[HDU - 4081](http://acm.hdu.edu.cn/showproblem.php?pid=4081)
 #### 知识点：次小生成树等
 [http://blog.csdn.net/shuangde800/article/details/7982106](http://blog.csdn.net/shuangde800/article/details/7982106)
