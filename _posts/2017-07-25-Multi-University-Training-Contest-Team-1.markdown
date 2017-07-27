@@ -2,7 +2,7 @@
 layout:     notebook
 title:      2017 Multi-University Training Contest 1 solutions BY 北京航空航天大学
 author:     TangYuanqing
-tags: 		ACM
+tags: 		ACM Multi-University
 subtitle:   多校联合训练1 题解报告
 category:  ACM Log
 
