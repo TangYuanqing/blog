@@ -2,7 +2,7 @@
 layout:     notebook
 title:      2017 Multi-University Training Contest - Team 2
 author:     TangYuanqing
-tags: 		ACM
+tags: 		ACM Multi-University
 subtitle:   多校联合训练2
 category:  ACM Log
 

@@ -2,8 +2,8 @@
 layout:     notebook
 title:      Team Training 2
 author:     TangYuanqing
-tags: 		ACM Multi-University
-subtitle:   组队训练2 题解报告
+tags: 		ACM
+subtitle:   个人强化训练1 题解报告
 category:  ACM Log
 
 notebookfilename:
