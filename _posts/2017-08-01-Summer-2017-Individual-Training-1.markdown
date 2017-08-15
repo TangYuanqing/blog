@@ -10,6 +10,13 @@ notebookfilename:
 visualworkflow: false
 ---
 
+明天比赛预告：个人强化训练1（Summer 2017 Individual Training 1）
+时间：2017年8月2日 11:30-16:30
+vjudge Group：nuptacm2017
+主持和赛后主讲：邹子昕、张正昊。
+祝顺利！
+Just enjoy it!
+
 
 ## A-hdu 2095 find your present(2) 异或  
  [http://blog.csdn.net/dgq8211/article/details/7455722](http://blog.csdn.net/dgq8211/article/details/7455722)

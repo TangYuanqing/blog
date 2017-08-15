@@ -1,0 +1,22 @@
+---
+layout:     notebook
+title:      2017"百度之星"程序设计大赛 - 初赛（A）
+author:     TangYuanqing
+tags: 		ACM
+subtitle:   2017"百度之星"程序设计大赛 - 初赛（A） 预告
+category:  ACM Log
+
+notebookfilename:
+visualworkflow: false
+---
+
+明天比赛预告：2017"百度之星"程序设计大赛 - 初赛（B）
+比赛链接：[http://bestcoder.hdu.edu.cn/contests/login.php?cid=776](http://bestcoder.hdu.edu.cn/contests/login.php?cid=776)
+
+时间：2017年8月13日 14:00-16:30
+赛后主持讨论：王悉宇
+注意：
+（1）请集中到215参赛。
+（2）该比赛属于个人赛，请不要出现代码雷同等情况。
+大家辛苦，预祝取得好成绩！
+Just enjoy it!
