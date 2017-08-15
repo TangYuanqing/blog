@@ -1,6 +1,6 @@
 ---
 layout:     notebook
-title:      Team Training 2
+title:      Individual Training 1
 author:     TangYuanqing
 tags: 		ACM
 subtitle:   个人强化训练1 题解报告
