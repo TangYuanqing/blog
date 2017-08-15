@@ -1,0 +1,15 @@
+---
+layout:     notebook
+title:      C++的输出入cin/cout和scanf/printf谁比较快？
+author:     chino.taipei
+tags: 		ACM
+subtitle:   cin cout
+category:  ACM Log
+
+notebookfilename:
+visualworkflow: false
+---
+
+
+## C++的输出入cin/cout和scanf/printf谁比较快？
+[http://chino.taipei/note-2016-0311C-%E7%9A%84%E8%BC%B8%E5%87%BA%E5%85%A5cin-cout%E5%92%8Cscanf-printf%E8%AA%B0%E6%AF%94%E8%BC%83%E5%BF%AB%EF%BC%9F/](http://chino.taipei/note-2016-0311C-%E7%9A%84%E8%BC%B8%E5%87%BA%E5%85%A5cin-cout%E5%92%8Cscanf-printf%E8%AA%B0%E6%AF%94%E8%BC%83%E5%BF%AB%EF%BC%9F/)
