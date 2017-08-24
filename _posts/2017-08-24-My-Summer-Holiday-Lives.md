@@ -7,79 +7,12 @@ author:       "Zhangqr"
 
 # **第一阶段**
 ## 7-20  代码强化训练1  《葵花宝典》P3-24
----
-<table>
-<tr>
-<td>#</td>
-<td>origin</td>
-</tr>
 
-<tr>
-<td>A</td>
-<td>POJ3167</td>
-</tr>
-
-<tr>
-<td>B</td>
-<td>POJ1699</td>
-</tr>
-
-<tr>
-<td>C</td>
-<td>POJ3974</td>
-</tr>
-
-<tr>
-<td>D</td>
-<td>HDU2222</td>
-</tr>
-
-<tr>
-<td>E</td>
-<td>HDU1403</td>
-</tr>
-
-<tr>
-<td>F</td>
-<td>POJ2406</td>
-</tr>
-
-<tr>
-<td>G</td>
-<td>CodeForces 123D</td>
-</tr>
-
-<tr>
-<td>H</td>
-<td>POJ2689</td>
-</tr>
-
-<tr>
-<td>I</td>
-<td>HDU5428</td>
-</tr>
-
-<tr>
-<td>J</td>
-<td>HDU1576</td>
-</tr>
-
-<tr>
-<td>K</td>
-<td>HDU1573</td>
-</tr>
-
-<tr>
-<td>L</td>
-<td>POJ1811</td>
-</tr>
-
-<tr>
-<td>M</td>
-<td>POJ2478</td>
-</tr>
-</table>
----
+Here | is | a | row!
+|---------|:----------|:----------:|---------:|
+is   |Left|  Center  |Right|
+a    | cut | it | A
+column  | short | B | C
 
 A - Cow Patterns
 来源：POJ – 3167
