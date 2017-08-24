@@ -8,11 +8,21 @@ author:       "Zhangqr"
 # **第一阶段**
 ## 7-20  代码强化训练1  《葵花宝典》P3-24
 
-Here | is | a | row!
-|---------|:----------|:----------:|---------:|
-is   |Left|  Center  |Right|
-a    | cut | it | A
-column  | short | B | C
+  #  |     origin      
+ --- | ---------------
+ A   | POJ3167         
+ B   | POJ1699         
+ C   | POJ3974         
+ D   | HDU2222         
+ E   | HDU1403         
+ F   | POJ2406         
+ G   | CodeForces 123D
+ H   | POJ2689         
+ I   | HDU5428         
+ J   | HDU1576         
+ K   | HDU1573         
+ L   | POJ1811         
+ M   | POJ2478         
 
 A - Cow Patterns
 来源：POJ – 3167
