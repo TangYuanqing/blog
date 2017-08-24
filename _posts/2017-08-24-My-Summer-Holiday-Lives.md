@@ -27,9 +27,9 @@ author:       "Zhangqr"
 A - Cow Patterns
 来源：POJ – 3167
 知识点：扩展KMP等
-<http://www.cnblogs.com/zjh10/articles/2105716.html
-http://blog.csdn.net/tmeteorj/article/details/8693366
-http://www.cppblog.com/zxb/archive/2010/10/06/128782.aspx?opt=admin>
+<http://www.cnblogs.com/zjh10/articles/2105716.html>
+<http://blog.csdn.net/tmeteorj/article/details/8693366>
+<http://www.cppblog.com/zxb/archive/2010/10/06/128782.aspx?opt=admin>
 
 B - Best Sequence
 来源：POJ – 1699
