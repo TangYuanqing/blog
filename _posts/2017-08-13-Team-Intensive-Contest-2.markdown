@@ -2,7 +2,7 @@
 layout:     notebook
 title:      Team Intensive Contest 2
 author:     TangYuanqing
-tags: 		ACM
+tags: 		ACM Team
 subtitle:   组队强化训练2 预告+题解报告
 category:  ACM Log
 
@@ -11,7 +11,7 @@ visualworkflow: false
 ---
 
 明天比赛预告：Summer 2017 Team Intensive Contest 2 （组队强化训练2）
-比赛链接：https://vjudge.net/contest/176928
+比赛链接：<https://vjudge.net/contest/176928>
 
 比赛时间：2017年8月14日 11:30-16:30
 赛后主持：王若谷

@@ -2,7 +2,7 @@
 layout:     notebook
 title:      Team Intensive Contest 1
 author:     TangYuanqing
-tags: 		ACM
+tags: 		ACM Team
 subtitle:   组队强化训练1 预告+题解报告
 category:  ACM Log
 
@@ -13,7 +13,7 @@ visualworkflow: false
 本次暑期集训第三阶段开始！
 
 明天比赛预告：Summer 2017 Team Intensive Contest 1 （组队强化训练1）
-比赛链接：[https://vjudge.net/contest/176927](https://vjudge.net/contest/176927)
+比赛链接:<https://vjudge.net/contest/176927>
 
 时间：2017年8月11日 11:30-16:30
 赛后主持讨论：王洲杰

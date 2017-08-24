@@ -3,7 +3,7 @@ layout:     notebook
 title:      2017 Multi-University Training Contest 6 solutions BY 福州大学
 author:     TangYuanqing
 tags: 		ACM Multi-University
-subtitle:   多校联合训练5 题解报告
+subtitle:   多校联合训练6 题解报告
 category:  ACM Log
 
 notebookfilename:

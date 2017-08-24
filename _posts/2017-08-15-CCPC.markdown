@@ -1,0 +1,20 @@
+---
+layout:     notebook
+title:      中国大学生程序设计竞赛 - 网络选拔赛 预告
+author:     TangYuanqing
+tags: 		ACM
+subtitle:   China Collegiate Programming Contest
+category:  ACM Log
+
+notebookfilename:
+visualworkflow: false
+---
+
+
+各位2017集训同学好！
+我们下半年第1场正式比赛：2017年CCPC网络赛，将于8月19日（周六）12:00-17:00 集中现场进行。
+请大家调整好身体状态，规划好个人安排。
+如有冲突而不能参赛，请于明天之前QQ留言给我，谢谢！
+
+By 陈老师
+2017.8.15
