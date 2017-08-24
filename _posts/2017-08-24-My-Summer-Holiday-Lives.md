@@ -4,25 +4,18 @@ description:  "record"
 author:       "Zhangqr"
 ---
 
+
 # **第一阶段**
 ## 7-20  代码强化训练1  《葵花宝典》P3-24
 ---
-|#|origin|
-|-|-|
-|A|POJ3167|
-|B|POJ1699|
-|C|POJ3974|
-|D|HDU2222|
-|E|HDU1403|
-|F|POJ2406|
-|G|CodeForces 123D|
-|H|POJ2689|
-|I|HDU5428|
-|J|HDU1576|
-|K|HDU1573|
-|L|POJ1811|
-|M|POJ2478|
+|学号|姓名|分数|
+|-|-|-|
+|小明|男|75|
+|小红|女|79|
+|小陆|男|92|
 ---
+
+
 A - Cow Patterns
 来源：POJ – 3167
 知识点：扩展KMP等
