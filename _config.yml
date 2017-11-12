@@ -1,13 +1,13 @@
 # Site settings
 title: TangYuanqing's Blog
 description: "码农の日常"
-url: "https://TangYuanqing.github.io/blog"
+url: "https://TangYuanqing.github.io"
 
 
 
 
 # Secondary Parameters
-baseurl: ""
+baseurl: "/blog"
 header-img: /img/home-bg.jpg
 headercolor: "#FFFFFF"
 logo: /img/logos/Project-Pages-New-Logo-Inverted.png
